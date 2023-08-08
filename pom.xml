@@ -88,6 +88,14 @@
             <version>3.1.2.RELEASE</version>
         </dependency>
 
+        <!-- MarkDown-->
+        <!-- https://mvnrepository.com/artifact/org.commonmark/commonmark -->
+        <dependency>
+            <groupId>org.commonmark</groupId>
+            <artifactId>commonmark</artifactId>
+            <version>0.21.0</version>
+        </dependency>
+
 
     </dependencies>
 
